@@ -1,0 +1,48 @@
+{
+	"storyName": "The deep and forgotten blue sea",
+	"hideFreeplay": false,
+	"weekBackground": "CRAZYBOB",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ready or Not",
+			"CrazyBob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Wost Day Ever",
+			"CrazyBob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"F.U.N",
+			"CrazyPatrick",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}
