@@ -1,0 +1,419 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "stage",
+		"player1": "bfpibby",
+		"player2": "patrick",
+		"player3": null,
+		"events": [
+			[
+				3000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.08",
+						""
+					]
+				]
+			],
+			[
+				3400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				3700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4700,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				4900,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5100,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5400,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5600,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				5700,
+				[
+					[
+						"LinearSpin",
+						"12",
+						"0"
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"FlipUI",
+						"",
+						""
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"FlipUI",
+						"",
+						""
+					]
+				]
+			],
+			[
+				17000,
+				[
+					[
+						"Screen Shake",
+						"6,0.05",
+						""
+					]
+				]
+			],
+			[
+				17100,
+				[
+					[
+						"LinearSpin",
+						"120",
+						"100"
+					]
+				]
+			],
+			[
+				28100,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				28300,
+				[
+					[
+						"Screen Shake",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				39700,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				62000,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				62100,
+				[
+					[
+						"Add Camera Zoom",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				66300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						""
+					]
+				]
+			],
+			[
+				66500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				73300,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				73400,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				118600,
+				[
+					[
+						"BF Fade",
+						"28,0.05",
+						"0.06"
+					]
+				]
+			],
+			[
+				162300,
+				[
+					[
+						"BF Fade",
+						"0",
+						"100"
+					]
+				]
+			],
+			[
+				186300,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				186400,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				189200,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				191600,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				194900,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				197500,
+				[
+					[
+						"Blammed Lights",
+						"3  ",
+						""
+					]
+				]
+			],
+			[
+				200600,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				231200,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				231300,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				237200,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				242900,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				243100,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			],
+			[
+				254200,
+				[
+					[
+						"Screen Shake",
+						"5,0.05",
+						"0.08"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "CrazyBob",
+		"bpm": 150,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "F.U.N"
+	}
+}
